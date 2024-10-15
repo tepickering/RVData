@@ -29,9 +29,7 @@ dev = [
     "black",       # Code formatting
     "flake8",      # Code linting
     "pytest",      # Testing
-    "sphinx",      # Documentation
     "sphinx-autodoc-typehints",
-    "sphinx-rtd-theme",
 ]
 
 [tool.black]
